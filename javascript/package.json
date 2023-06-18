@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Javascript Sanbercode 45",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "zanzz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
